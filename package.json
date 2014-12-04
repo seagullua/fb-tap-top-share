@@ -1,0 +1,25 @@
+{
+  "name": "fb-tap-top-share",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/seagullua/fb-tap-top-share.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seagullua/fb-tap-top-share/issues"
+  },
+  "homepage": "https://github.com/seagullua/fb-tap-top-share",
+  "dependencies": {
+    "ejs": "^1.0.0",
+    "express": "^4.10.4",
+    "gm": "^1.17.0",
+    "morgan": "^1.5.0"
+  }
+}
